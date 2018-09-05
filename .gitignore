@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# x86
+JayCoin/Debug/*
+JayCoin/Release/*
+
+# x64
+JayCoin/x64/*
+JayCoin/x64/Debug/*
+JayCoin/x64/Release/*
+
+
