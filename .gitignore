@@ -32,10 +32,13 @@
 *.app
 
 # x86
+Debug/*
+Release/*
 JayCoin/Debug/*
 JayCoin/Release/*
 
 # x64
+x64/*
 JayCoin/x64/*
 JayCoin/x64/Debug/*
 JayCoin/x64/Release/*
